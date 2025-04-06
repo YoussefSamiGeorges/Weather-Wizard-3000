@@ -2,6 +2,9 @@
 
 A personal weather forecasting assistant with AI-powered outfit recommendations, built in Python.
 
+![image](https://github.com/user-attachments/assets/2377dd57-ac4f-4f51-80c4-73aef31196a7)
+
+
 ## 📋 Overview
 
 Weather Wizard 3000 is a command-line application that provides weather forecasts and personalized outfit recommendations. The app fetches real-time weather data using the OpenWeatherMap API and leverages AI to suggest appropriate clothing based on the current conditions.
