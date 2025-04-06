@@ -2,8 +2,7 @@
 
 A personal weather forecasting assistant with AI-powered outfit recommendations, built in Python.
 
-![image](https://github.com/user-attachments/assets/2377dd57-ac4f-4f51-80c4-73aef31196a7)
-
+![WhatsApp Image 2025-04-07 at 00 44 47](https://github.com/user-attachments/assets/b1c59e18-351c-4cfa-84c7-89e8eb8c5898)
 
 ## 📋 Overview
 
